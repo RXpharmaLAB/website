@@ -1,0 +1,1 @@
+ <?php header('Location: https://chercheztrouvez.ca/notremariage2.php'); ?>
